@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 ¡Hola! Soy Julián David García Moreno</h1>
-  <h3>Estudiante de Programación | Técnico Automotriz</h3>
+  <h3>Estudiante de Programación </h3>
 </div>
 
 ---

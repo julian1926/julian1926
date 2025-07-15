@@ -1,23 +1,23 @@
-<h1 align="center">⚡ Julián David García Moreno ⚡</h1>
+<h1 align="center" style="font-size: 42px;">⚡ Julián David García Moreno ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=460&lines=Estudiante+de+Programación;Técnico+en+Electricidad+Automotriz;Fusionando+circuitos+y+código;¡Siempre+aprendiendo+y+avanzando!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Estudiante+de+Programación;Técnico+en+Electricidad+Automotriz;Fusionando+circuitos+y+código;¡Siempre+aprendiendo+y+avanzando!+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD6vEwrWvN7TJrG/giphy.gif" width="180" alt="circuito eléctrico"/>
+  <img src="https://media.giphy.com/media/3o7aD6vEwrWvN7TJrG/giphy.gif" width="240" alt="circuito eléctrico"/>
 </p>
 
 ---
 
 ### ⚙️ Sobre Mí
 
-<div align="center">
+<div align="center" style="font-size: 18px; line-height: 1.6;">
 
 💡 Estudiante apasionado por el mundo del software y la tecnología.<br/>
-⚡ Con formación técnica en Mantenimiento Eléctrico y Control Electrónico de Automotores.<br/>
+⚡ Formación técnica en Mantenimiento Eléctrico y Control Electrónico de Automotores.<br/>
 🌎 Desde Cúcuta, Norte de Santander, Colombia 🇨🇴<br/>
-📚 En constante aprendizaje de tecnologías que conectan el mundo físico y digital.<br/>
+📚 Aprendiendo tecnologías que conectan el mundo físico y digital.<br/>
 
 </div>
 
@@ -25,9 +25,9 @@
 
 ### 🔌 Mi Energía Tecnológica
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,vscode,git,github&theme=light" />
-</div>
+</p>
 
 ```diff
 🔧 Lenguajes y herramientas en uso:
@@ -39,16 +39,6 @@
 ⚙️ Herramientas:
 + VSCode, Git, GitHub
 ```
-
----
-
-### 🚀 Proyectos Recientes
-
-| ⚡ Proyecto | 💡 Descripción | 🔗 Enlace |
-|------------|----------------|-----------|
-| **Banco Acme** | Autogestión bancaria con frontend interactivo | [Ver](https://github.com/juliandavidgarciamoreno/banco-acme) |
-| **Tarjetas Cósmicas** | Inspiración diaria con preguntas motivacionales | [Ver](https://github.com/juliandavidgarciamoreno/tarjetas-cosmicas) |
-| **Dashboard Usuario** | Panel web para interacción con datos | [Ver](https://github.com/juliandavidgarciamoreno/dashboard) |
 
 ---
 
@@ -78,11 +68,15 @@ console.log(`Voltaje activo: ${estado} – Julián está aprendiendo con potenci
 ### ✨ Frase Inspiradora
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Q8aVfIPnpH5VC/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/Q8aVfIPnpH5VC/giphy.gif" width="220" />
 </p>
 
-<p align="center"><b>“No hay resistencia para quien tiene la energía correcta.” ⚙️⚡</b></p>
+<p align="center" style="font-size: 20px;"><b>“No hay resistencia para quien tiene la energía correcta.” ⚙️⚡</b></p>
+
+<p align="center" style="font-size: 18px;">
+  🧠 “Estoy construyendo paso a paso, con lógica, voltaje... y mucha curiosidad.” 💻🚗⚡
+</p>
 
 <p align="center">
-  🧠 “Estoy construyendo paso a paso, con lógica, voltaje... y mucha curiosidad.” 💻🚗⚡
+  <img src="https://media.giphy.com/media/l0MYLCR8nqF8LtkGY/giphy.gif" width="120" />
 </p>

@@ -1,50 +1,88 @@
-<h1 align="center">
-  ⚡ Julián David García Moreno ⚡
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=460&lines=Estudiante+de+Programación;Curioso+por+naturaleza;Fusionando+el+software+y+la+electricidad;¡Siempre+aprendiendo+y+avanzando!+🚀" alt="Typing SVG" />
-</h1>
+<h1 align="center">⚡ Julián David García Moreno ⚡</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="200" alt="electric pulse"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=460&lines=Estudiante+de+Programación;Técnico+en+Electricidad+Automotriz;Fusionando+circuitos+y+código;¡Siempre+aprendiendo+y+avanzando!+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD6vEwrWvN7TJrG/giphy.gif" width="180" alt="circuito eléctrico"/>
 </p>
 
 ---
 
-## 🧑‍💻 Un poco sobre mí...
+### ⚙️ Sobre Mí
+
+<div align="center">
+
+💡 Estudiante apasionado por el mundo del software y la tecnología.<br/>
+⚡ Con formación técnica en Mantenimiento Eléctrico y Control Electrónico de Automotores.<br/>
+🌎 Desde Cúcuta, Norte de Santander, Colombia 🇨🇴<br/>
+📚 En constante aprendizaje de tecnologías que conectan el mundo físico y digital.<br/>
+
+</div>
+
+---
+
+### 🔌 Mi Energía Tecnológica
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,vscode,git,github&theme=light" />
+</div>
 
 ```diff
-📍 Vivo en la vibrante Cúcuta, Norte de Santander, Colombia 🇨🇴
+🔧 Lenguajes y herramientas en uso:
++ Python (aprendiendo 🐍)
++ HTML y CSS (nivel básico)
++ JavaScript (en progreso)
++ NumPy (explorando análisis y datos)
 
-🤔 Soy un estudiante de programación impulsado por la curiosidad
+⚙️ Herramientas:
++ VSCode, Git, GitHub
+```
 
-💻 Mi objetivo es transformar ideas en código funcional
+---
 
-🚗⚡ Tengo formación técnica en Mantenimiento Eléctrico y Control Electrónico de Automotores
+### 🚀 Proyectos Recientes
 
-⚙️ Esto me da una perspectiva única sobre la interacción software-mundo físico
+| ⚡ Proyecto | 💡 Descripción | 🔗 Enlace |
+|------------|----------------|-----------|
+| **Banco Acme** | Autogestión bancaria con frontend interactivo | [Ver](https://github.com/juliandavidgarciamoreno/banco-acme) |
+| **Tarjetas Cósmicas** | Inspiración diaria con preguntas motivacionales | [Ver](https://github.com/juliandavidgarciamoreno/tarjetas-cosmicas) |
+| **Dashboard Usuario** | Panel web para interacción con datos | [Ver](https://github.com/juliandavidgarciamoreno/dashboard) |
 
-🐍 Actualmente aprendiendo Python
+---
 
-✨ Busco fusionar mi base técnica con habilidades de programación para crear soluciones innovadoras
+### 🌐 ¡Conectemos!
 
-🛠️ Mi Stack Tecnológico (En Aprendizaje)
-<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-En+proceso-yellow?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
-🔌 Herramientas
+<p align="center">
+  <a href="mailto:juliandavidgarciamoreno9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contáctame-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/juliandavidgarciamoreno" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@juliandavidgarciamoreno-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-    🧠 VSCode
+---
 
-    🔧 Git
+### ⚡ Voltaje en Tiempo Real
 
-    🗃️ GitHub
-
-    🔍 Explorando librerías como: NumPy
-
-⚡ Voltaje en Tiempo Real
-
-// Estado actual del sistema energético del programador
+```js
 const energia = ["🔋", "🔌", "⚡"];
 const estado = energia[Math.floor(Math.random() * energia.length)];
-console.log(`Voltaje activo: ${estado} ¡Julián está aprendiendo y creando!`);
+console.log(`Voltaje activo: ${estado} – Julián está aprendiendo con potencia!`);
+```
 
-📬 ¡Conectemos!
-<p align="center"> <a href="mailto:juliandavidgarciamoreno9@gmail.com"> <img src="https://img.shields.io/badge/Email-juliandavidgarciamoreno9@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/juliandavidgarciamoreno" target="_blank"> <img src="https://img.shields.io/badge/GitHub-juliandavidgarciamoreno-181717?style=for-the-badge&logo=github" /> </a> </p> <p align="center"> <img src="https://media.giphy.com/media/qXpxqTRi0FFi4rLpmk/giphy.gif" width="300" alt="electric wave gif"/> </p> <p align="center"> ⚙️ “No hay resistencia para quien tiene la energía correcta.” ⚡ </p> <p align="center"> ✨ ¡Gracias por visitar mi perfil! ¡Siempre aprendiendo 📚 y construyendo! 🚀 </p> ```
+---
+
+### ✨ Frase Inspiradora
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Q8aVfIPnpH5VC/giphy.gif" width="200" />
+</p>
+
+<p align="center"><b>“No hay resistencia para quien tiene la energía correcta.” ⚙️⚡</b></p>
+
+<p align="center">
+  🧠 “Estoy construyendo paso a paso, con lógica, voltaje... y mucha curiosidad.” 💻🚗⚡
+</p>

@@ -1,48 +1,50 @@
-<div align="center">
-  <h1>👋 ¡Hola! Soy Julián David García Moreno</h1>
-  <h3>Estudiante de Programación </h3>
-</div>
+<h1 align="center">
+  ⚡ Julián David García Moreno ⚡
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=460&lines=Estudiante+de+Programación;Curioso+por+naturaleza;Fusionando+el+software+y+la+electricidad;¡Siempre+aprendiendo+y+avanzando!+🚀" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="200" alt="electric pulse"/>
+</p>
 
 ---
 
-### 🧑‍💻 Un poco sobre mí...
+## 🧑‍💻 Un poco sobre mí...
 
-* 📍 Vivo en la vibrante Cúcuta, Norte de Santander, Colombia 🇨🇴.
-* 🤔 Soy un estudiante de programación impulsado por la curiosidad.
-* 💻 Mi objetivo es transformar ideas en código funcional.
-* 🚗⚡ Cuento con formación técnica en Mantenimiento Eléctrico y Control Electrónico de Automotores.
-* ⚙️ Esto me da una perspectiva única sobre la interacción software-mundo físico.
-* 🐍 Actualmente aprendiendo **Python**.
+```diff
+📍 Vivo en la vibrante Cúcuta, Norte de Santander, Colombia 🇨🇴
 
+🤔 Soy un estudiante de programación impulsado por la curiosidad
 
-* ✨ Busco fusionar mi base técnica con mis habilidades de programación para crear soluciones innovadoras.
+💻 Mi objetivo es transformar ideas en código funcional
 
----
+🚗⚡ Tengo formación técnica en Mantenimiento Eléctrico y Control Electrónico de Automotores
 
-### 🛠️ Mi Stack Tecnológico (En Aprendizaje)
+⚙️ Esto me da una perspectiva única sobre la interacción software-mundo físico
 
-- **Lenguaje Principal:**
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+🐍 Actualmente aprendiendo Python
 
-- **Librerías de Python (Explorando):**
-  - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  
+✨ Busco fusionar mi base técnica con habilidades de programación para crear soluciones innovadoras
 
-- **Herramientas:**
-  - ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+🛠️ Mi Stack Tecnológico (En Aprendizaje)
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-En+proceso-yellow?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
+🔌 Herramientas
 
----
+    🧠 VSCode
 
-### 📬 ¡Conectemos!
+    🔧 Git
 
-Si tienes alguna pregunta o simplemente quieres saludar 👋, no dudes en contactarme a través de:
+    🗃️ GitHub
 
-- ✉️ **Correo Electrónico:** juliandavidgarciamoreno9@gmail.com
+    🔍 Explorando librerías como: NumPy
 
----
+⚡ Voltaje en Tiempo Real
 
-<div align="center">
-  ✨ ¡Gracias por visitar mi perfil! ¡Siempre aprendiendo 📚 y construyendo! 🚀
-</div>
+// Estado actual del sistema energético del programador
+const energia = ["🔋", "🔌", "⚡"];
+const estado = energia[Math.floor(Math.random() * energia.length)];
+console.log(`Voltaje activo: ${estado} ¡Julián está aprendiendo y creando!`);
+
+📬 ¡Conectemos!
+<p align="center"> <a href="mailto:juliandavidgarciamoreno9@gmail.com"> <img src="https://img.shields.io/badge/Email-juliandavidgarciamoreno9@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/juliandavidgarciamoreno" target="_blank"> <img src="https://img.shields.io/badge/GitHub-juliandavidgarciamoreno-181717?style=for-the-badge&logo=github" /> </a> </p> <p align="center"> <img src="https://media.giphy.com/media/qXpxqTRi0FFi4rLpmk/giphy.gif" width="300" alt="electric wave gif"/> </p> <p align="center"> ⚙️ “No hay resistencia para quien tiene la energía correcta.” ⚡ </p> <p align="center"> ✨ ¡Gracias por visitar mi perfil! ¡Siempre aprendiendo 📚 y construyendo! 🚀 </p> ```
